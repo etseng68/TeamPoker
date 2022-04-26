@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cards">
+        <item>s2</item>
+        <item>d3</item>
+        <item>c4</item>
+        <item>h5</item>
+        <item>s6</item>
+        <item>d7</item>
+    </string-array>
+    <string-array name="scores">
+        <item>s2:d8,8</item>
+        <item>d3:h7,10</item>
+        <item>c4:s6,0</item>
+        <item>c5:h5,5</item>
+        <item>sa:ha,10</item>
+        <item>db:hb,20</item>
+        <item>sc:dc,10</item>
+        <item>cd:sd,0</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Message 1</item>
+        <item>Message 2</item>
+        <item>Message 3</item>
+    </string-array>
+
+    <string-array name="logos">
+        <item>user1</item>
+        <item>user2</item>
+        <item>user3</item>
+    </string-array>
+
+    <string-array name="ranking">
+        <item>Fist place</item>
+        <item>Second place</item>
+        <item>Third place</item>
+        <item>fourth place</item>
+    </string-array>
+
+    <string-array name="rankingNum">
+        <item>1nd</item>
+        <item>2nd</item>
+        <item>3nd</item>
+        <item>4nd</item>
+    </string-array>
+</resources>

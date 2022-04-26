@@ -1,0 +1,113 @@
+<resources>
+    <!--<string name="admob_app_id" translatable="false">pub-1688365872626727</string>-->
+
+    <string name="ad_unit_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_unit_id_main_banner_big" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_id_user_choice_top" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_id_user_choice_bottom" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_id_phone_game_new" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_unit_id_phone_game_start" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+<!--    <string name="ad_unit_id" translatable="false">ca-app-pub-1688365872626727~4662227029</string>
+    <string name="ad_unit_id_main_banner_big" translatable="false">ca-app-pub-1688365872626727/8376496357</string>
+    <string name="ad_unit_id_user_choice_top" translatable="false">ca-app-pub-1688365872626727/1760731510</string>
+    <string name="ad_unit_id_user_choice_bottom" translatable="false">ca-app-pub-1688365872626727/6174495536</string>
+    <string name="ad_unit_id_phone_game_new" translatable="false">ca-app-pub-1688365872626727/9988960921</string>
+    <string name="ad_unit_id_phone_game_start" translatable="false">ca-app-pub-1688365872626727/6789696911</string>-->
+
+    <string name="app_name">TeamPoker</string>
+    <string name="title_activity_phone_main">Find red dots</string>
+    <string name="title_activity_user_choice">Choose game characters</string>
+    <string name="title_activity_poker">Playing card room</string>
+
+    <string name="table" translatable="false">Table</string>
+    <string name="phone">Play game</string>
+
+    <!-- ToolBar -->
+    <string name="toolbar_ranking">Ranking</string>
+    <string name="toolbar_new_game">New Game</string>
+    <string name="toolbar_about">About</string>
+
+    <!-- PhoneTable -->
+    <string name="message_join">Join</string>
+    <string name="cover_start">Start</string>
+    <string name="create">Create</string>
+    <string name="join">Join</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string-array name="user_name">
+        <item>Alan</item>
+        <item>Bess</item>
+        <item>Carl</item>
+        <item>Dana</item>
+        <item>Eden</item>
+        <item>Fanny</item>
+        <item>Glenn</item>
+        <item>Helen</item>
+        <item>Ivan</item>
+        <item>Jenny</item>
+        <item>Kevin</item>
+        <item>Mary</item>
+        <item>Nick</item>
+        <item>Ora</item>
+        <item>Paul</item>
+        <item>Rose</item>
+        <item>Roy</item>
+        <item>Sara</item>
+        <item>Tom</item>
+        <item>Vicky</item>
+    </string-array>
+
+    <string-array name="coverMessage">
+        <item>Throw!</item>
+        <item>Pick!</item>
+        <item>Flop!</item>
+        <item>Take!</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_icon_made" translatable="false">Icon made by Freepik from www.flaticon.com</string>
+    <string name="about_app_design" translatable="false">App design by ai2app group.</string>
+    <string name="toolbar_help">Help</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="exit">Exit</string>
+    <string name="i_know">I know</string>
+    <string name="create_description">You can creating a playing card room.</string>
+    <string name="join_description">Join to playing card.</string>
+    <string name="new_game_description">New game.</string>
+    <string name="score_view_description">Battle situation.</string>
+    <string name="hand_description">Press and hold to drag and drop cards to the table.</string>
+    <string name="table_description">This is table area. You can select  and flop card.</string>
+    <string name="pincode_description">Join game pin code.</string>
+    <string name="choice_user_description">Swipe right and left to select a character.</string>
+    <string name="pin_code">PIN Code</string>
+    <string name="join_dialog_message">Type your room PIN code !</string>
+    <string name="join_dialog_message_full">Poker room is full or close. Please input Other.</string>
+    <string name="join_dialog_message_run">Game is running! Please input another or waiting game Over</string>
+    <string name="join_dialog_message_pin">PIN Code wrong! Please input again.</string>
+    <string name="join_dialog_message_edit">Edit error!</string>
+    <string name="my_score">My scores</string>
+    <string name="ad_reward">Click ad to get</string>
+    <string name="ad_point">point</string>
+    <string name="phone_cover_start">Play !</string>
+    <string name="phone_alert_exit_title">Exit Game</string>
+    <string name="phone_alert_exit_body">If exit game. your score will be lost.</string>
+    <string name="phone_alert_new_title">New Game</string>
+    <string name="phone_alert_new_body_finish_no">If create new game. your score will be lost.</string>
+    <string name="phone_alert_new_body_finish">New game start and Good luck!</string>
+    <string name="phone_member_null">member is null</string>
+    <string name="phone_game_key_null">Poker room has been closed!</string>
+    <string name="phone_alert_not_pair">Not pair!</string>
+    <string name="phone_alert_thorw_card">Throw card!</string>
+    <string name="phone_alert_flop">Flop!</string>
+    <string name="phone_cover_join">Join !</string>
+    <string name="phone_user_message_join">Hello !</string>
+    <string name="phone_user_changed">change to</string>
+    <string name="battle_situation_analysis">Battle situation analysis</string>
+    <string name="robot_name">Robot</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="toolbar_sign_out">Sign Out</string>
+</resources>

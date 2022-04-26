@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">撿紅點</string>
+    <string name="toolbar_ranking">排行榜</string>
+    <string name="toolbar_new_game">開新牌局</string>
+    <string name="toolbar_about">關於我們</string>
+    <string name="message_join">加入牌局</string>
+    <string name="cover_start">開始</string>
+    <string name="create">建立牌室</string>
+    <string name="join">加入牌局</string>
+    <string name="cancel">取消</string>
+    <string name="ok">確認</string>
+    <string name="toolbar_help">說明</string>
+    <string name="exit">結束</string>
+    <string name="i_know">朕知道了</string>
+    <string name="create_description">建立撲克牌室</string>
+    <string name="join_description">加入牌局</string>
+    <string name="new_game_description">開新牌局</string>
+    <string name="score_view_description">戰況分析</string>
+    <string name="hand_description">長按就能拖放牌至牌桌上</string>
+    <string name="table_description">你可以在牌桌上選牌及翻牌</string>
+    <string name="pincode_description">加入牌局的 Pin 碼</string>
+    <string name="phone">開啟遊戲</string>
+    <string name="title_activity_phone_main">撿紅點</string>
+    <string name="title_activity_user_choice">選擇人物角色</string>
+    <string name="title_activity_poker">撲克牌室</string>
+    <string name="choice_user_description">左右滑動選擇角色</string>
+
+    <string-array name="user_name">
+        <item>Alan 艾倫</item>
+        <item>Bess 貝絲</item>
+        <item>Carl 卡爾</item>
+        <item>Dana 黛娜</item>
+        <item>Eden 伊登</item>
+        <item>Fanny 梵妮</item>
+        <item>Glenn 葛蘭</item>
+        <item>Helen 海倫</item>
+        <item>Ivan 艾凡</item>
+        <item>Jenny 珍妮</item>
+        <item>Kevin 凱文</item>
+        <item>Mary 瑪麗</item>
+        <item>Nick 尼克</item>
+        <item>Ora 奥拉</item>
+        <item>Paul 保羅</item>
+        <item>Rose 羅絲</item>
+        <item>Roy 羅伊</item>
+        <item>Sara 莎莉</item>
+        <item>Tom 莎拉</item>
+        <item>Vicky 維琪</item>
+    </string-array>
+
+    <string-array name="coverMessage">
+        <item>出牌!</item>
+        <item>選牌!</item>
+        <item>翻牌!</item>
+        <item>拿牌!</item>
+    </string-array>
+    <string name="pin_code">Pin 碼</string>
+    <string name="join_dialog_message">鍵入牌室 Pin 碼 !</string>
+    <string name="join_dialog_message_full">牌室人數已滿或是關閉了,請鍵入其他牌室 Pin 碼.</string>
+    <string name="join_dialog_message_run">牌局進行中無法加入,請鍵入其他牌室 Pin 碼,或是等待牌局結束再加入.</string>
+    <string name="join_dialog_message_pin">Pin 碼錯誤,請重新輪入 !</string>
+    <string name="join_dialog_message_edit">Pin 碼編輯錯誤.</string>
+    <string name="ad_reward">點擊廣告獲得</string>
+    <string name="ad_point">分</string>
+    <string name="my_score">我的積分</string>
+    <string name="phone_cover_start">玩牌囉</string>
+    <string name="phone_alert_exit_title">離開</string>
+    <string name="phone_alert_exit_body">結束牌局,你的得分會遺失.</string>
+    <string name="phone_alert_new_title">新牌局</string>
+    <string name="phone_alert_new_body_finish_no">重新建立新牌局,你的得分會遺失.</string>
+    <string name="phone_alert_new_body_finish">新牌局開始,祝你好運!</string>
+    <string name="phone_member_null">會員資料遺失.</string>
+    <string name="phone_game_key_null">牌室已關閉.</string>
+    <string name="phone_alert_not_pair">不可配對的牌!</string>
+    <string name="phone_alert_thorw_card">出牌 !</string>
+    <string name="phone_alert_flop">翻牌 !</string>
+    <string name="phone_cover_join">我來玩牌囉!</string>
+    <string name="phone_user_message_join">我要玩牌 !</string>
+    <string name="phone_user_changed">變身</string>
+    <string name="battle_situation_analysis">戰況分析</string>
+    <string name="robot_name">機器人</string>
+    <string name="toolbar_sign_out">登出</string>
+    <string name="no_internet_connection">無網路</string>
+</resources>

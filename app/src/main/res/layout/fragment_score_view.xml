@@ -1,0 +1,58 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ai2app.teampoker.phone.ScoreViewFragment">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="@string/battle_situation_analysis"
+        android:background="@color/Gray"
+        android:textColor="@color/White"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <com.ai2app.teampoker.view.PhoneScoreView
+        android:id="@+id/phone_score_1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F06292" />
+    <com.ai2app.teampoker.view.PhoneScoreView
+        android:id="@+id/phone_score_2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#64B5F6" />
+    <com.ai2app.teampoker.view.PhoneScoreView
+        android:id="@+id/phone_score_3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#81C784" />
+    <com.ai2app.teampoker.view.PhoneScoreView
+        android:id="@+id/phone_score_4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#A1887F" />
+
+    <ImageView
+        android:id="@+id/phone_score_exit"
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_highlight_off_black_24dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center"
+        android:layout_margin="4dp" />
+
+    <TextView
+        android:id="@+id/phone_room_game_key"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+</LinearLayout>

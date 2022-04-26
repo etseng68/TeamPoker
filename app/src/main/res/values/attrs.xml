@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TableView">
+        <attr name="cardRes" format="reference" />
+        <attr name="layoutRotate" format="float" >
+            <enum name="forward_0" value="0"/>
+            <enum name="forward_90" value="90"/>
+            <enum name="reverse_90" value="-90"/>
+            <enum name="forward_180" value="180"/>
+        </attr>
+        <attr name="userName" format="string" />
+        <attr name="userLogo" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="PhoneScoreCard">
+        <attr name="scorePairs" format="reference" />
+        <attr name="scoreName" format="string" />
+        <attr name="scoreLogo" format="reference" />
+        <attr name="scoreScore" format="string" />
+        <!--<attr name="ranking" format="string" />-->
+        <attr name="scorePlace" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ScoreCard">
+        <attr name="cardPair" format="string" />
+        <attr name="cardRotate" format="float" >
+            <enum name="forward_0" value="0"/>
+            <enum name="forward_90" value="90"/>
+            <enum name="reverse_90" value="-90"/>
+            <enum name="forward_180" value="180"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="PokerCard">
+        <attr name="imageSrc" format="reference" />
+        <attr name="rotate" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="PhoneTable">
+        <attr name="logosRes" format="reference" />
+        <attr name="msgsRes" format="reference" />
+        <attr name="coverRes" format="string" />
+        <attr name="coverText" format="string" />
+        <attr name="cardsRes" format="reference" />
+        <attr name="namesRes" format="reference" />
+        <attr name="materialColor" format="string" />
+        <attr name="userCircleColor" format="integer" />
+        <attr name="cardArrangeTyp" format="integer" >
+            <enum name="table" value="0"/>
+            <enum name="hand_table" value="1"/>
+            <enum name="hand" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>

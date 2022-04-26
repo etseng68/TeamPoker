@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ai2app.teampoker.MainActivity">
+    <item
+        android:id="@+id/user_choice_bar_help"
+        android:orderInCategory="100"
+        android:title="@string/toolbar_help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/user_choice_bar_about"
+        android:orderInCategory="101"
+        android:title="@string/toolbar_about"
+        app:showAsAction="never" />
+</menu>
