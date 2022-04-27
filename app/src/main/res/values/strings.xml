@@ -1,19 +1,10 @@
 <resources>
-    <!--<string name="admob_app_id" translatable="false">pub-1688365872626727</string>-->
-
     <string name="ad_unit_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
     <string name="ad_unit_id_main_banner_big" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="ad_unit_id_user_choice_top" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="ad_unit_id_user_choice_bottom" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="ad_unit_id_phone_game_new" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
     <string name="ad_unit_id_phone_game_start" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
-
-<!--    <string name="ad_unit_id" translatable="false">ca-app-pub-1688365872626727~4662227029</string>
-    <string name="ad_unit_id_main_banner_big" translatable="false">ca-app-pub-1688365872626727/8376496357</string>
-    <string name="ad_unit_id_user_choice_top" translatable="false">ca-app-pub-1688365872626727/1760731510</string>
-    <string name="ad_unit_id_user_choice_bottom" translatable="false">ca-app-pub-1688365872626727/6174495536</string>
-    <string name="ad_unit_id_phone_game_new" translatable="false">ca-app-pub-1688365872626727/9988960921</string>
-    <string name="ad_unit_id_phone_game_start" translatable="false">ca-app-pub-1688365872626727/6789696911</string>-->
 
     <string name="app_name">TeamPoker</string>
     <string name="title_activity_phone_main">Find red dots</string>
